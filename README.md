@@ -1,5 +1,7 @@
 # gendmt: computational verification for "Generalized gradient vector fields and the complex of discrete Morse intervals"
 
+*Developed with the assistance of Claude (Anthropic).*
+
 This repository computes $\mathcal{M}(K)$ (the complex of discrete Morse
 matchings) and $\mathcal{M}_{\mathrm{int}}(K)$ (the complex of discrete
 Morse intervals) for a finite simplicial complex $K$, by brute-force
